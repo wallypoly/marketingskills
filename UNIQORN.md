@@ -2,13 +2,21 @@
 
 This fork keeps the original `coreyhaines31/marketingskills` library intact and adds a thin UNIQorn-specific orchestration layer on top.
 
-The goal is to preserve upstream updates while making the library work better for a Malaysia-based Tarot, Akashic Record, crystal, workshop, and spiritual wellness business.
+The goal is to preserve upstream updates while making the library work better for a Malaysia-based Tarot, Akashic Record, crystal, workshop, spiritual, self-discovery, and experience-led business that is still refining its market fit.
+
+## Core principle
+
+UNIQorn's positioning is allowed to evolve.
+
+The fork does not pre-decide that the brand should sound more mainstream, less mystical, more therapeutic, less spiritual, more premium, or more commercial. Those are market-fit variables to research, test, measure, and refine.
+
+Language such as Tarot, Akashic Records, energy, manifestation, intuition, healing, universe, spiritual awakening, self-discovery, or emotional awareness should not be removed merely because it sounds niche or mystical. The agent should study how people actually search, respond, enquire, book, buy, return, and refer.
 
 ## Fork-specific skills
 
 ### `uniqorn-marketing-os`
 
-The main router for UNIQorn marketing work. It decides which specialist marketing skills to combine and prevents generic SaaS assumptions from dominating local service, workshop, content, and spiritual wellness decisions.
+The main router for UNIQorn marketing work. It decides which specialist marketing skills to combine and keeps recommendations grounded in current evidence and ongoing market-fit learning.
 
 Use it for:
 
@@ -21,6 +29,7 @@ Use it for:
 - Ads and creative
 - Workshops and event marketing
 - Analytics and attribution
+- Market-fit experiments
 
 ### `uniqorn-seo`
 
@@ -38,7 +47,7 @@ It coordinates:
 - `content-strategy`
 - `cro`
 
-It adds specific guardrails for Malaysian local search, English / Chinese search behavior, service-intent pages, workshop / event discovery, spiritual-wellness claims, and AI search.
+It adds Malaysia local search, English / Chinese search behavior, service and event discovery, spiritual-category search, AI search, content clusters, and market-fit testing.
 
 ## Recommended install
 
@@ -81,7 +90,7 @@ To see everything available:
 npx skills add wallypoly/marketingskills --list
 ```
 
-If installing from inside an agent session, pass the agent explicitly when needed, for example:
+If installing from inside an agent session, pass the agent explicitly when needed:
 
 ```bash
 npx skills add wallypoly/marketingskills -a codex
@@ -107,7 +116,7 @@ Start from:
 skills/uniqorn-marketing-os/references/context-template.md
 ```
 
-Keep business-specific context in the UNIQorn project rather than hard-coding private operational information into this public skills repository.
+Keep business-specific context in the actual UNIQorn project rather than hard-coding private operating information into this public skills repository.
 
 ## Suggested workflow
 
@@ -125,25 +134,29 @@ uniqorn-marketing-os
   -> cro
   -> content-strategy / social / events / ads
   -> analytics / attribution
+  -> feed market learning back into context
 ```
 
 Do not run every skill mechanically. The router should select only the capabilities needed for the task.
 
 ## SEO principle
 
-SEO is a core acquisition system for UNIQorn.
+SEO is a core acquisition and market-learning system for UNIQorn.
 
-Prioritize:
+Possible priorities include:
 
-1. Commercial service pages
+1. Commercial service discovery
 2. Local discovery
 3. Clear site architecture and internal links
 4. Search-intent content clusters
 5. Technical SEO and structured data
 6. AI search / citation readiness
-7. Scaled SEO pages only when demand and uniqueness justify them
+7. Spiritual and self-discovery topic demand
+8. English / Chinese search behavior
+9. Market-fit experiments across different positioning language
+10. Scaled SEO pages when demand and page quality justify them
 
-The goal is qualified discovery and conversion, not publishing volume for its own sake.
+The goal is to learn what the market responds to while building qualified discovery and conversion.
 
 ## Keeping the fork maintainable
 
