@@ -24,17 +24,18 @@ Keep private customer data, passwords, credentials, payment details, and unneces
 | | | | | |
 
 ## Positioning
-**One-line positioning:**
-**Category customers already understand:**
-**What makes UNIQorn meaningfully different:**
-**What UNIQorn should never be confused with:**
+**Current one-line positioning:**
+**Categories customers may already understand:**
+**Current differentiation hypothesis:**
+**Adjacent categories / perceptions to monitor:**
 
 ## Audience
-**Primary audience:**
-**Secondary audience:**
+**Primary audience hypothesis:**
+**Secondary audience hypothesis:**
 **High-intent situations:**
 -
-**Anti-persona / poor fit:**
+**Emerging audience segments to test:**
+-
 
 ## Customer Jobs To Be Done
 -
@@ -46,7 +47,7 @@ Keep private customer data, passwords, credentials, payment details, and unneces
 -
 **Words that resonate:**
 -
-**Words to avoid:**
+**Words / concepts that need more testing:**
 -
 
 ## Problems / Tensions
@@ -68,15 +69,15 @@ Keep private customer data, passwords, credentials, payment details, and unneces
 -
 
 ## Brand Voice
-**Tone:**
+**Current tone:**
 **Writing principles:**
-**Claims boundaries:**
+**Spiritual / mystical expression currently being tested:**
 **Visual / verbal cues:**
 
 ## SEO Priorities
 **Primary commercial queries:**
 -
-**Primary educational clusters:**
+**Primary educational / spiritual clusters:**
 -
 **Local search priorities:**
 -
@@ -101,6 +102,19 @@ Keep private customer data, passwords, credentials, payment details, and unneces
 **Partners / referrals:**
 **Paid media:**
 
+## Market-Fit Experiments
+| Hypothesis | Audience | Asset / channel | Success signal | Result | Decision |
+|---|---|---|---|---|---|
+| | | | | | |
+
+Examples of variables worth testing:
+- Explicit spiritual language vs broader self-discovery language
+- Tarot / Akashic-first vs problem-first framing
+- Energy / manifestation / intuition language
+- Premium vs accessible positioning
+- English vs Chinese terminology
+- Educational vs emotional vs mystical hooks
+
 ## Measurement
 **Primary conversion:**
 **Secondary conversions:**
@@ -115,11 +129,11 @@ Keep private customer data, passwords, credentials, payment details, and unneces
 2.
 3.
 
-## Constraints
+## Operational Constraints
 **Budget:**
 **Capacity:**
 **Tools / platforms:**
-**Operational constraints:**
+**Operational realities:**
 
 ## Decisions / Changelog
 - v1 (YYYY-MM-DD) - Initial context.
